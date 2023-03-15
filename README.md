@@ -25,6 +25,6 @@ Tenho 18 anos, moro em Fortaleza-CE e estou estudando programação na Área de 
 ##
 <div>
    <a href="https://github.com/JUanEnD">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JuanEnD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEnD&layout=compact&langs_count=5&theme=algolia"/>
+   <img height="150em" padding-rigth="2rem" src="https://github-readme-stats.vercel.app/api?username=JuanEnD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanEnD&layout=compact&langs_count=16&theme=algolia"/>
 </div>
