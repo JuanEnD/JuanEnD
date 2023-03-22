@@ -1,8 +1,8 @@
 # Olá, me chamo Juan Pablo! 
-## Bem vindo ao meu perfil GitHub 👋
+## Bem vindo ao meu perfil do GitHub 👋
 
 
-Tenho 18 anos, moro em Fortaleza-CE e estou estudando programação na Área de Data Science, comecei meus estudos no ano passado, tive meu primeiro contato nessa área com Front-end, mas depois parei de estudar Front quando conheci essa área incrível de Data Science que no começo estava estudando para ser Data Scientist, só que depois conheci a área de Data Engineer e agora mudei meus estudos.
+Tenho 18 anos, moro em Fortaleza-CE e estou estudando programação na Área de Dados, tive meu primeiro contato nessa área de TI com Front-end, mas depois parei de estudar Front quando conheci essa área incrível de Data Science e desde esse dia estou me aventurando em vários Dados.
 
 ## Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
@@ -14,7 +14,7 @@ Tenho 18 anos, moro em Fortaleza-CE e estou estudando programação na Área de 
           
 <div display="inline-block">
  <p align="left">📚 Tenho estudado MySQL e Power Bi</p>
- <p align="left">🎮 Gosto de games, principalmente de assistir eSports.</p>
+ <p align="left">🎮 Gosto de games, principalmente de assistir eSports e jogar nas horas vagas.</p>
 </div>
 
 
@@ -25,5 +25,5 @@ Tenho 18 anos, moro em Fortaleza-CE e estou estudando programação na Área de 
 ##
 <div>
    <a href="https://github.com/JUanEnD">
-   <img height="150em" padding-rigth="2rem" src="https://github-readme-stats.vercel.app/api?username=JuanEnD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" padding-rigth="2rem" src="https://github-readme-stats.vercel.app/api?username=JuanEnD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
