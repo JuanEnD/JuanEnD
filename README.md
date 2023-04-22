@@ -31,7 +31,7 @@ Tenho 18 anos, moro em Fortaleza-CE e estou estudando programação na Área de 
 
 
 ## Contatos:
-  <a href="http://www.linkedin.com/in/juan-pablo-queiroz" target="_blank"> <img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>   
+  <a href="http://www.linkedin.com/in/juan-pablo-queiroz" target="_blank"> <img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn" /></a>   
 
 ##
 <div align="center">
