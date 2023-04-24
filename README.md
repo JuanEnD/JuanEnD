@@ -29,10 +29,15 @@ Tenho 18 anos, moro em Fortaleza-CE e estou estudando programação na Área de 
 </div>
 
 
-## Contatos:
-  <a href="http://www.linkedin.com/in/juan-pablo-queiroz" target="_blank"> <img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn" /></a>   
 
-##
+## Meus Links:
+<div>
+      <a href="http://www.linkedin.com/in/juan-pablo-queiroz" target="_blank"> <img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu perfil no LinkedIn" /></a>   
+      <a href="https://cursos.alura.com.br/vitrinedev/JuanPablo" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Meu portfólio na Alura"></a>
+</div>
+
+---
+
 <div align="center">
    <a href="https://github.com/JuanEnD">
    <img height="150rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuanEnD&theme=algolia&&show_icons=true&include_all_commits=true&count_private=true"/>
